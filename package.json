@@ -1,0 +1,20 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma080808/api-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma080808/api-node/issues"
+  },
+  "homepage": "https://github.com/Ma080808/api-node#readme"
+}
